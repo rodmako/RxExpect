@@ -19,5 +19,5 @@ let package = Package(
   ],
   swiftLanguageVersions: [.v5]
 )
-１兄さん
+
 変更
