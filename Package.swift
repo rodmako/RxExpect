@@ -19,5 +19,5 @@ let package = Package(
   ],
   swiftLanguageVersions: [.v5]
 )
-123123
+
 変更
